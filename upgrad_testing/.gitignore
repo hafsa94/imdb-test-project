@@ -1,0 +1,13 @@
+# for auto-generated reports
+/test_reports/**
+/allure-report/**
+
+# for sonar-runner local properties
+*.properties
+*.properties~
+
+*.gitignore~
+*.gif
+*.pyc
+.idea
+/test_cases/*.xml
